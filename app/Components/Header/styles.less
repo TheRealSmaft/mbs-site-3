@@ -1,0 +1,26 @@
+@import '../../Styles/variables';
+
+@logo-container-size: 500px;
+
+#header {
+	height: @logo-container-size;
+	background-color: #303030;
+	overflow: hidden;
+
+	.logo-container {
+		width: @logo-container-size;
+		height: @logo-container-size * .8;
+		border-radius: 50%;
+		background-color: white;
+
+		box-sizing: border-box;
+		border: 20px solid #202020;
+		margin: @logo-container-size * .1 @logo-container-size * -.5;
+
+		img {
+			height: 70%;
+			margin-top: 12%;
+			margin-left: @logo-container-size * .5;
+		}
+	}
+}

@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tless misc"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
 				"ch",
 				"children\t.children()"
 			],
@@ -32,10 +92,6 @@
 				"margin-top"
 			],
 			[
-				"marg",
-				"margin-right"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -44,24 +100,12 @@
 				"margin-top"
 			],
 			[
-				"mar",
-				"margin-left"
-			],
-			[
-				"backgroun",
-				"background-color"
-			],
-			[
 				"cleint",
 				"clientY"
 			],
 			[
 				"bor",
 				"border-radius"
-			],
-			[
-				"box",
-				"box-shadow"
 			],
 			[
 				"po",
@@ -76,16 +120,8 @@
 				"font-family"
 			],
 			[
-				"border",
-				"border-width"
-			],
-			[
 				"padd",
 				"padding"
-			],
-			[
-				"pos",
-				"position"
 			],
 			[
 				"import",
@@ -104,15 +140,7 @@
 				"background-color"
 			],
 			[
-				"back",
-				"background-color"
-			],
-			[
 				"max-",
-				"max-width"
-			],
-			[
-				"ma",
 				"max-width"
 			],
 			[
@@ -130,10 +158,6 @@
 			[
 				"inline",
 				"inline-block"
-			],
-			[
-				"over",
-				"overflow"
 			],
 			[
 				"inli",
@@ -230,14 +254,6 @@
 			[
 				"cur",
 				"cursor"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"tex",
-				"text-align"
 			],
 			[
 				"font-",
@@ -384,10 +400,6 @@
 				"file_get_contents"
 			],
 			[
-				"co",
-				"completeForm\tproperty"
-			],
-			[
 				"hidd",
 				"hidden-tablets-down"
 			],
@@ -502,72 +514,61 @@
 			[
 				"f",
 				"fileReader\tproperty"
-			],
-			[
-				"readAs",
-				"readAsDataURL\tmethod"
-			],
-			[
-				"type",
-				"typeof\tkeyword"
-			],
-			[
-				"Fil",
-				"FileDropDirective\talias"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "dist/index.html",
-			"settings":
-			{
-				"buffer_size": 339,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 719,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".babelrc",
-			"settings":
-			{
-				"buffer_size": 71,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "webpack.config.js",
-			"settings":
-			{
-				"buffer_size": 711,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/index.js",
-			"settings":
-			{
-				"buffer_size": 216,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/app.js",
 			"settings":
 			{
-				"buffer_size": 221,
+				"buffer_size": 346,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Components/Header/index.js",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Components/Footer/index.js",
+			"settings":
+			{
+				"buffer_size": 259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Styles/global.less",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Components/Header/styles.less",
+			"settings":
+			{
+				"buffer_size": 507,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Components/Footer/styles.less",
+			"settings":
+			{
+				"buffer_size": 48,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -628,12 +629,22 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Matthew/bu-webdev/site",
-		"/C/Users/Matthew/bu-webdev/site/app",
-		"/C/Users/Matthew/bu-webdev/site/dist"
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Footer",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles"
 	],
 	"file_history":
 	[
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/dist/index.html",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/index.js",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/webpack.config.js",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles/variables.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles/global.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/npm-debug.log",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/.babelrc",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/package.json",
 		"/C/Users/Matthew/bu-webdev/site/dist/app.bundle.js",
 		"/C/Users/Matthew/bu-webdev/site/package.json",
 		"/C/Users/Matthew/Documents/Adobe/Adobe Media Encoder/9.0/ArchivedWorkspaces/stud/index.html",
@@ -753,15 +764,7 @@
 		"/C/Users/Matthew/Desktop/amt package.json backup.json",
 		"/C/Users/Matthew/Documents/Websites/AMT/npm-debug.log.1436814651",
 		"/C/Users/Matthew/Documents/Websites/AMT/app/components/Header.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/Footer.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/App.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/additional-info/skids/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/additional-info/pieces/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/additional-info/colors/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/additional-info/cases/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/products/product-details/additional-info/_general/index.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/pages/home/index.js"
+		"/C/Users/Matthew/Documents/Websites/AMT/app/components/Footer.js"
 	],
 	"find":
 	{
@@ -779,6 +782,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"101010",
+			"background",
+			"header",
+			"Header",
 			"+",
 			"h5",
 			"th",
@@ -815,171 +822,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "dist/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 339,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								282,
-								282
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 719,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								398,
-								398
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": ".babelrc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 71,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "webpack.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 711,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 216,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "app/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 221,
+						"buffer_size": 346,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								221,
-								221
+								315,
+								315
 							]
 						],
 						"settings":
@@ -992,7 +852,157 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Components/Header/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Components/Footer/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "app/Styles/global.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Components/Header/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/LESS/LESS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Components/Footer/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/LESS/LESS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1015,11 +1025,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1075,7 +1092,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
