@@ -1,14 +1,16 @@
 import React from 'react';
 
-//import Header from './Header';
+import Header from './Components/Header';
 //import Footer from './Footer';
+
+import GlobalStyles from './Styles/global.less';
 
 class App extends React.Component {
 	render() {
 		return (
-			<main>
-				<h1>HI!</h1>
-			</main>
+			<div>
+				<Header />
+			</div>
 		)
 	}
 }

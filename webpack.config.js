@@ -23,6 +23,20 @@ module.exports = {
 				]
 			},
 			{
+				test: /\.less$/,
+				use: [
+					{
+						loader: 'style-loader'
+					}, 
+					{
+						loader: 'css-loader'
+					}, 
+					{
+						loader: 'less-loader'
+					}
+				]
+			},
+			{
 				test: /\.(jpe?g|png|gif|svg)$/i,
 				loader: 'file-loader',
 				options: {
@@ -34,7 +48,8 @@ module.exports = {
 	devtool: 'source-map',
 	devServer: {
 		historyApiFallback: true,
-		contentBase: './dist'
+		contentBase: './dist',
+		hot: true
 	},
 	plugins: [
 		new webpack.HotModuleReplacementPlugin()
