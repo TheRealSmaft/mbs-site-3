@@ -4,16 +4,72 @@
 		"selected_items":
 		[
 			[
+				"pe",
+				"perspective-origin\tproperty"
+			],
+			[
+				"rot",
+				"rotateY()\ttransform"
+			],
+			[
+				"le",
+				"left\tperspective-origin"
+			],
+			[
+				"persp",
+				"perspective-origin\tproperty"
+			],
+			[
+				"per",
+				"perspective\tproperty"
+			],
+			[
+				"col",
+				"column\tflex-direction"
+			],
+			[
+				"Logo",
+				"LogoStyles"
+			],
+			[
+				"fl",
+				"flex-end\talign-items"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
 				"over",
 				"overflow\tproperty"
 			],
 			[
 				"marg",
 				"margin\tproperty"
-			],
-			[
-				"ma",
-				"max-width\tproperty"
 			],
 			[
 				"mar",
@@ -30,10 +86,6 @@
 			[
 				"ali",
 				"align-items\tproperty"
-			],
-			[
-				"flex",
-				"flex-direction\tproperty"
 			],
 			[
 				"ab",
@@ -86,10 +138,6 @@
 			[
 				"cente",
 				"centerX"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"font",
@@ -246,10 +294,6 @@
 			[
 				"cl",
 				"clear"
-			],
-			[
-				"fl",
-				"float"
 			],
 			[
 				"cur",
@@ -470,50 +514,6 @@
 			[
 				"get",
 				"getReadyItems\tmethod"
-			],
-			[
-				"Fi",
-				"File\tinterface"
-			],
-			[
-				"products",
-				"productsByCategory\tproperty"
-			],
-			[
-				"Ob",
-				"Object\tinterface"
-			],
-			[
-				"prod",
-				"productsByCategory\tproperty"
-			],
-			[
-				"In",
-				"Input\talias"
-			],
-			[
-				"Sub",
-				"Subject\talias"
-			],
-			[
-				"Ima",
-				"ImageUploadPartialComponent\talias"
-			],
-			[
-				"s",
-				"selector\tproperty"
-			],
-			[
-				"Com",
-				"Component\talias"
-			],
-			[
-				"File",
-				"FileReader\tinterface"
-			],
-			[
-				"f",
-				"fileReader\tproperty"
 			]
 		]
 	},
@@ -523,52 +523,25 @@
 			"file": "app/app.js",
 			"settings":
 			{
-				"buffer_size": 346,
+				"buffer_size": 601,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/Components/Header/index.js",
+			"file": "app/Components/LogoComponent/index.js",
 			"settings":
 			{
-				"buffer_size": 428,
+				"buffer_size": 538,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/Components/Footer/index.js",
+			"file": "app/Components/LogoComponent/styles.less",
 			"settings":
 			{
-				"buffer_size": 259,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Styles/global.less",
-			"settings":
-			{
-				"buffer_size": 184,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Components/Header/styles.less",
-			"settings":
-			{
-				"buffer_size": 507,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/Components/Footer/styles.less",
-			"settings":
-			{
-				"buffer_size": 48,
+				"buffer_size": 434,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -582,7 +555,7 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "Package Control: ",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -632,19 +605,29 @@
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components",
-		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Footer",
-		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles"
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/LogoComponent",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/MainContentContainer",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Resources",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Resources/Animations",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/dist"
 	],
 	"file_history":
 	[
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Header/index.js",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Footer/index.js",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/MainContentContainer/index.js",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles/global.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/MainContentContainer/styles.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Footer/styles.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/Header/styles.less",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/package.json",
+		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Components/ContentContainer/styles.less",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/dist/index.html",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/index.js",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/webpack.config.js",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles/variables.less",
-		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/app/Styles/global.less",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/npm-debug.log",
 		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/.babelrc",
-		"/C/Users/Matthew/Documents/GitHub/mbs-site-3/package.json",
 		"/C/Users/Matthew/bu-webdev/site/dist/app.bundle.js",
 		"/C/Users/Matthew/bu-webdev/site/package.json",
 		"/C/Users/Matthew/Documents/Adobe/Adobe Media Encoder/9.0/ArchivedWorkspaces/stud/index.html",
@@ -757,14 +740,7 @@
 		"/C/Users/Matthew/Documents/Websites/AMT/app/styles/index.js",
 		"/C/Users/Matthew/Documents/Websites/AMT/webpack.config.js",
 		"/C/Users/Matthew/Documents/Websites/AMT/postcss.config.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/layout/ImageBanner/index.js",
-		"/C/Users/Matthew/Desktop/website Archictecture.docx",
-		"/C/Users/Matthew/Documents/Websites/AMT/.babelrc",
-		"/C/Users/Matthew/Desktop/amt webpack backup.js",
-		"/C/Users/Matthew/Desktop/amt package.json backup.json",
-		"/C/Users/Matthew/Documents/Websites/AMT/npm-debug.log.1436814651",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/Header.js",
-		"/C/Users/Matthew/Documents/Websites/AMT/app/components/Footer.js"
+		"/C/Users/Matthew/Documents/Websites/AMT/app/components/layout/ImageBanner/index.js"
 	],
 	"find":
 	{
@@ -782,6 +758,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
+			"main",
+			"MainContentContainer",
+			"React.Fragment",
+			"Header",
 			"101010",
 			"background",
 			"header",
@@ -831,145 +812,24 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 346,
+						"buffer_size": 601,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								315,
-								315
+								487,
+								495
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Components/Header/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 428,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								405,
-								405
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/Components/Footer/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								186,
-								186
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "app/Styles/global.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 184,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								103,
-								103
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/Components/Header/styles.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 507,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/LESS/LESS.sublime-syntax"
-						},
-						"translation.x": 0.0,
+						"translation.x": 10.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -977,20 +837,55 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/Components/Footer/styles.less",
+					"buffer": 1,
+					"file": "app/Components/LogoComponent/index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 48,
+						"buffer_size": 538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								46,
-								46
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Naomi/syntaxes/naomi.fjsx15.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "app/Components/LogoComponent/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
 							]
 						],
 						"settings":
@@ -1002,7 +897,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1092,7 +987,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},

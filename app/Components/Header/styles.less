@@ -1,26 +1,33 @@
 @import '../../Styles/variables';
 
-@logo-container-size: 500px;
-
 #header {
-	height: @logo-container-size;
-	background-color: #303030;
-	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
 
-	.logo-container {
-		width: @logo-container-size;
-		height: @logo-container-size * .8;
-		border-radius: 50%;
-		background-color: white;
+	margin-top: 20px;
 
-		box-sizing: border-box;
-		border: 20px solid #202020;
-		margin: @logo-container-size * .1 @logo-container-size * -.5;
+	img {
+		width: 100px;
+	}
 
-		img {
-			height: 70%;
-			margin-top: 12%;
-			margin-left: @logo-container-size * .5;
+	p {
+		text-align: right;
+	}
+
+	#main-nav {
+
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: flex-end;
+
+		padding: 0px;
+
+		li {
+			list-style-type: none;
+			margin-left: 20px;
 		}
 	}
 }

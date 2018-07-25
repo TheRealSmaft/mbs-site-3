@@ -1,0 +1,32 @@
+@import '../../Styles/variables';
+
+#logo-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	
+	hgroup {
+
+		white-space: nowrap;
+		text-align-last: justify;
+
+		h1 {
+			color: @brand-primary;
+			-webkit-text-stroke: .1px darkred;
+		}
+
+		h1, h2 {
+			line-height: 20px;
+		}
+		
+		h4 {
+			line-height: 10px;
+		}
+
+		h1, h2, h4 {
+			transform: rotateZ(5deg);
+		}
+	}
+}
